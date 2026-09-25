@@ -1,0 +1,11 @@
+# WinForge V1 Dependencies
+# Core application uses only Python standard library + tkinter (included with most Python installs)
+# No third-party packages required for V1 core functionality.
+
+# Optional: for better Windows API access in future toys (uncomment if needed)
+# pywin32>=306; sys_platform == "win32"
+
+# Development
+# pytest>=7.0
+# black>=23.0
+# ruff>=0.1
